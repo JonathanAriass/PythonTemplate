@@ -4,11 +4,10 @@ This is a template project for a Python package. It is intended to be used as a 
 
 # Usage and installation
 
-To install all the packages included on the template, run the following commands (on the root of the project):
+To install all the packages included on the template, run the following command (on the root of the project):
 
 ```bash
     source venv/bin/activate
-    pip install -r requirements.txt
 ```
 
 # Development
